@@ -1,0 +1,1 @@
+App Gestion de talleres de una escuela permite por medio de un menu CLI, ingresar informacion de 2 talleres (nombre del taller y su limite de participantes), inscribir cantidad de estudiantes a uno de los dos talleres, mostrar información de los 2 talleres y calcular cual tiene mas participantes 
